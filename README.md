@@ -1,5 +1,5 @@
 
-#Infinite Cloud Storage
+# Infinite Cloud Storage
 
 The program allows users to deposit any file of their choosing on the free cloud(youtube). It is possible by byte converting into video and then lossless decoding. Hashes of files before hosting and after decoding are the same. After youtube's policy update, you have to manually host video produced by the program.
 
